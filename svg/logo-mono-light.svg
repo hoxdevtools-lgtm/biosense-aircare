@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 322 240" role="img" aria-label="BioSense AirCare mark, light">
+<title>BioSense AirCare mark, light</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3CC054"/><stop offset="1" stop-color="#2AA043"/></linearGradient><linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#37C4AB"/><stop offset="1" stop-color="#27A38D"/></linearGradient></defs>
+<g transform="translate(6 4) scale(0.625)">
+<line x1="152" y1="78" x2="50" y2="190" stroke="#DAD7CD" stroke-width="24" stroke-linecap="round"/>
+<line x1="50" y1="190" x2="162" y2="315" stroke="#DAD7CD" stroke-width="24" stroke-linecap="round"/>
+<circle cx="152" cy="78" r="48.0" fill="#DAD7CD"/>
+<circle cx="50" cy="190" r="52.0" fill="#DAD7CD"/>
+<circle cx="162" cy="315" r="52.0" fill="#DAD7CD"/>
+<path d="M218 140C252 90 322 76 376 94C423 110 456 92 490 70C460 128 423 154 372 144C318 132 258 134 218 140Z" fill="#DAD7CD"/>
+<path d="M218 215C252 165 322 151 376 169C423 185 452 167 486 145C456 203 423 229 372 219C318 207 258 209 218 215Z" fill="#DAD7CD"/>
+<path d="M218 290C252 240 322 226 376 244C423 260 444 242 478 220C448 278 423 304 372 294C318 282 258 284 218 290Z" fill="#DAD7CD"/>
+</g>
+</svg>
